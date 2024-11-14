@@ -1,0 +1,9 @@
+<resources>
+    <color name="background_color">#F5F5F5</color>
+    <color name="title_color">#3E4A59</color>
+    <color name="secondary_text_color">#6D7278</color>
+    <color name="switch_text_color">#3E4A59</color>
+    <color name="switch_thumb_color">#FF4081</color> <!-- Pink thumb for modern look -->
+    <color name="switch_track_color">#B0BEC5</color> <!-- Grey track -->
+    <color name="status_text_color">#9E9E9E</color>
+</resources>
